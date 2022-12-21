@@ -20,6 +20,17 @@ git clone https://github.com/zsh4k/sshub && cd sshub && chmod +x sshub.sh && ./s
 
 Al ejecutar el comando en la terminal veremos lo siguiente
 
+```bash
+Claves SSH en el equipo
+total 8
+drwx------ 2 root root 4096 Dec 21 02:49 .
+drwx------ 4 root root 4096 Dec 21 03:08 ..
+-rw------- 1 root root    0 Dec 21 02:49 authorized_keys
+Escribe tu correo de github
+tuemail@gmail.com
+Generando clave publica y privada ...
+```
+
 Lista de Claves SSH dentro de su equipo 
 
 Escribir su correo de github
