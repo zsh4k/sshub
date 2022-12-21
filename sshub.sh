@@ -27,5 +27,7 @@ cat ~/.ssh/id_ed25519.pub
 
 echo ... agregala en "https://github.com/settings/keys"
 
-echo Probar conexion SSH con github
-ssh -T git@github.com
+# Probar conexion SSH con github
+
+chmod +x conexion/probar.sh
+./conexion/probar.sh
