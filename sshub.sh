@@ -31,3 +31,5 @@ echo ... agregala en "https://github.com/settings/keys"
 
 chmod +x conexion/probar.sh
 ./conexion/probar.sh
+
+cd
